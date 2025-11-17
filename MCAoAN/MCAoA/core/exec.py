@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# mcan-vqa (Deep Modular Co-Attention Networks)
+# mcaoa-vqa
 # Licensed under The MIT License [see LICENSE for details]
 # Written by Yuhao Cui https://github.com/cuiyuhao1996
 # modified by Hyelee Kim
