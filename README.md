@@ -26,11 +26,20 @@ https://github.com/cuiyuhao1996/mcan-vqa
 
 If you use this implementation in your work, please cite the following sources:
 
+
+```bibtex
 @article{cui2019mcan,
- title={Deep Modular Co-Attention Networks for Visual Question Answering},
- author={Cui, Yuhao et al.},
- journal={CVPR},
- year={2019},
- note={Original code base used as reference} } 
- 
-@misc{hyelee2025mcaoan, title={Implementation of MCAoAN: Object-aware Attention Extension of Modular Co-Attention Networks}, author={Hye Lee Kim}, year={2025}, note={Implementation based on the paper "An Improved Attention for Visual Question Answering"} }
+  title={Deep Modular Co-Attention Networks for Visual Question Answering},
+  author={Cui, Yuhao et al.},
+  journal={CVPR},
+  year={2019},
+  note={Original code base used as reference}
+}
+
+@misc{hyelee2025mcaoan,
+  title={Implementation of MCAoAN: Object-aware Attention Extension of Modular Co-Attention Networks},
+  author={Hye Lee Kim},
+  year={2025},
+  note={Implementation based on the paper "An Improved Attention for Visual Question Answering"}
+}
+
